@@ -1,0 +1,94 @@
+==================================================
+Gradient Boosting Tuned
+==================================================
+
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99    346348
+           1       0.83      0.54      0.66     10714
+
+    accuracy                           0.98    357062
+   macro avg       0.91      0.77      0.82    357062
+weighted avg       0.98      0.98      0.98    357062
+
+
+Confusion Matrix
+True Negatives : 345186
+False Positives: 1162
+False Negatives: 4897
+True Positives : 5817
+
+ROC-AUC: 0.9668
+
+==================================================
+Gradient Boosting
+==================================================
+
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99    346348
+           1       0.82      0.54      0.65     10714
+
+    accuracy                           0.98    357062
+   macro avg       0.91      0.77      0.82    357062
+weighted avg       0.98      0.98      0.98    357062
+
+
+Confusion Matrix
+True Negatives : 345110
+False Positives: 1238
+False Negatives: 4903
+True Positives : 5811
+
+ROC-AUC: 0.9661
+
+==================================================
+Logistic Regression
+==================================================
+
+              precision    recall  f1-score   support
+
+           0       0.99      0.82      0.90    346348
+           1       0.12      0.83      0.21     10714
+
+    accuracy                           0.82    357062
+   macro avg       0.56      0.83      0.56    357062
+weighted avg       0.97      0.82      0.88    357062
+
+
+Confusion Matrix
+True Negatives : 282741
+False Positives: 63607
+False Negatives: 1778
+True Positives : 8936
+
+ROC-AUC: 0.8965
+
+==================================================
+Random Forest
+==================================================
+
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99    346348
+           1       0.79      0.61      0.69     10714
+
+    accuracy                           0.98    357062
+   macro avg       0.89      0.80      0.84    357062
+weighted avg       0.98      0.98      0.98    357062
+
+
+Confusion Matrix
+True Negatives : 344634
+False Positives: 1714
+False Negatives: 4152
+True Positives : 6562
+
+ROC-AUC: 0.9603
+
+==================================================
+Recommendation
+==================================================
+
+Recommended model: Gradient Boosting Tuned
+ROC-AUC: 0.9668

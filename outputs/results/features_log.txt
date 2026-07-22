@@ -1,0 +1,18 @@
+==================================================
+FEATURE EGINEERING COMPLETE
+==================================================
+
+Features added: 
+- hour
+- day_of_week
+- is_weekend
+- night_transaction
+- amount_difference
+- amount_ratio
+- amount_zscore
+- minutes_since_last_transaction
+- terminal_changed
+- rapid_terminal_change
+- distance_between_customer_and_terminal
+
+Final dataset shape: (1785308, 30)

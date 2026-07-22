@@ -1,0 +1,26 @@
+==================================================
+DATA CLEANING COMPLETE
+==================================================
+
+Final dataset shape: (1785308, 19)
+
+Columns:
+- transaction_id
+- post_ts
+- customer_id
+- bin
+- terminal_id
+- amt
+- entry_mode
+- fraud
+- mean_amount
+- std_amount
+- mean_nb_tx_per_day
+- network_id
+- lat_customer
+- log_customer
+- available_terminals
+- nb_terminals
+- lat_terminal
+- log_terminal
+- mcc

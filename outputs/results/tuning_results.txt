@@ -1,0 +1,9 @@
+==================================================
+BEST PARAMETERS
+==================================================
+
+model__learning_rate: 0.05
+model__max_depth: 8
+model__max_iter: 200
+
+Best Cross Validation ROC-AUC: 0.9662

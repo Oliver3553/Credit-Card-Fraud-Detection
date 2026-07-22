@@ -1,0 +1,9 @@
+==================================================
+TRAINING COMPLETE
+==================================================
+
+Successfully trained and saved:
+
+- Logistic Regression.pkl
+- Random Forest.pkl
+- Gradient Boosting.pkl
