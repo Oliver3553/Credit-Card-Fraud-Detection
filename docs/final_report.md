@@ -3,7 +3,7 @@
 
 
 
-##P roject Objective
+## Project Objective
 
 The aim of this project was to build an end-to-end machine learning pipeline capable of detecting fraudulent credit card transactions. 
 
@@ -70,7 +70,7 @@ Confusion Matrix:
 - True Positives: **5,817**
 
 
-![Confusion Matrix](../outputs/evaluation/Gradient Boosting Tuned_confusion_matrix.png)
+Please see: outputs/evaluation/Gradient Boosting Tuned_confusion_matrix.png 
 Figure 1: Confusion matrix for the tuned Gradient Boosting model. 
 
 
