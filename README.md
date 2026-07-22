@@ -1,5 +1,13 @@
 # Credit Card Fraud Detection using Machine Learning
 
+### Important to Note
+
+https://www.kaggle.com/datasets/cgrodrigues/credit-card-transactions-synthetic-data-generation
+
+The datasets used for this project are too large for GitHub, please see download link above ^
+
+Please then follow the pipeline of clean_data.py followed by features.py to extract the datasets you will need to run the other scripts, thank you
+
 ## Project Overview
 
 This project builds an end-to-end machine learning pipeline capable of detecting fraudulent credit card transactions.
